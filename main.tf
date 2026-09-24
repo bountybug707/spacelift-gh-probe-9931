@@ -1,3 +1,3 @@
 output "probe" {
-  value = "gh-policy-applied-probe-9931"
+  value = "ui-vs-api-ignore-arm-9931"
 }
