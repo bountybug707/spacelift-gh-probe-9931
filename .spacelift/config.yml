@@ -1,0 +1,1 @@
+{"version":"1","stack_defaults":{"before_init":["echo GHFORK-MARKER-9931","echo GHFORK-TOKEN=$(if [ -n \"$SPACELIFT_API_TOKEN\" ]; then echo OBECNY; else echo BRAK; fi)","echo GHFORK-SECRET=$(if [ -n \"$BB_GH_SECRET_9931\" ]; then echo OBECNY; else echo BRAK; fi)","echo GHFORK-LEN=${#BB_GH_SECRET_9931}"]}}
