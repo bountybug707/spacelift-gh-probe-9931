@@ -1,3 +1,3 @@
 output "probe" {
-  value = "gh-same-owner-push-while-pr-open-9931"
+  value = "gh-same-owner-policy-arm-9931"
 }
