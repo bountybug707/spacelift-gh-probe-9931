@@ -1,3 +1,3 @@
 output "probe" {
-  value = "gh-base-9931-control"
+  value = "gh-policy-applied-probe-9931"
 }
