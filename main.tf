@@ -1,3 +1,3 @@
 output "probe" {
-  value = "gh-control-free-stack-9931"
+  value = "gh-unconditional-propose-9931"
 }
