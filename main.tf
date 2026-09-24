@@ -1,3 +1,3 @@
 output "probe" {
-  value = "gh-same-owner-policy-arm-9931"
+  value = "gh-control-free-stack-9931"
 }
